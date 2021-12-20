@@ -16,6 +16,7 @@ creating kata DNI-0.0.1/src
 creating kata DNI-0.0.1/test
 copying files to kata DNI-0.0.1...
 copying README.md -> kata DNI-0.0.1
+copying pyproject.toml -> kata DNI-0.0.1
 copying setup.py -> kata DNI-0.0.1
 copying kata_DNI.egg-info/PKG-INFO -> kata DNI-0.0.1/kata_DNI.egg-info
 copying kata_DNI.egg-info/SOURCES.txt -> kata DNI-0.0.1/kata_DNI.egg-info
@@ -34,6 +35,7 @@ adding 'kata DNI-0.0.1/src'
 adding 'kata DNI-0.0.1/test'
 adding 'kata DNI-0.0.1/kata_DNI.egg-info'
 adding 'kata DNI-0.0.1/README.md'
+adding 'kata DNI-0.0.1/pyproject.toml'
 adding 'kata DNI-0.0.1/setup.cfg'
 adding 'kata DNI-0.0.1/setup.py'
 adding 'kata DNI-0.0.1/PKG-INFO'

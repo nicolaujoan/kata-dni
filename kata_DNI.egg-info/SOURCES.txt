@@ -1,4 +1,5 @@
 README.md
+pyproject.toml
 setup.py
 kata_DNI.egg-info/PKG-INFO
 kata_DNI.egg-info/SOURCES.txt

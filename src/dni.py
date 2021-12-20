@@ -1,2 +1,2 @@
-class Dni: 
+class Dni:
     pass

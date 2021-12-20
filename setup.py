@@ -19,7 +19,7 @@ setuptools.setup(
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    python_requires='>=3.6',
+    python_requires=">=3.6",
     install_requires=[
         "attrs==21.2.0",
         "backports.entry-points-selectable==1.1.1",
@@ -36,6 +36,5 @@ setuptools.setup(
         "toml==0.10.2",
         "tox==3.24.4",
         "virtualenv==20.10.0",
-
     ],
 )
