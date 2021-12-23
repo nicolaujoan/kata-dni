@@ -1,0 +1,13 @@
+README.md
+pyproject.toml
+setup.py
+kata_DNI.egg-info/PKG-INFO
+kata_DNI.egg-info/SOURCES.txt
+kata_DNI.egg-info/dependency_links.txt
+kata_DNI.egg-info/requires.txt
+kata_DNI.egg-info/top_level.txt
+src/__init__.py
+src/dni.py
+src/tabla_asignacion.py
+test/__init__.py
+test/test_hello_world.py

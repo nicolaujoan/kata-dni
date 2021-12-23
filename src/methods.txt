@@ -1,0 +1,28 @@
+Partiremos de los métodos necesarios a tener en la interfaz pública. Después añadiremos los que nos hagan
+falta en la interfaz privada.
+
+El objetivo es seguir los principios de desarrollo SOLID
+
+Métodos de la interfaz pública:
+
+__init__
+setDni
+getDni
+setNumeroSano
+getNumeroSano
+setLetraSana
+getLetraSana
+checkCIF
+checkDni
+checkLetra
+obtenerLetra
+
+Métodos de la interfaz privada:
+
+ayudan a hacer el código mas SRP
+
+básicamente usaremos checkers y algunos métodos como pequeña ayuda
+
+Nos faltará pensar en TDD: pensar el test que se tiene que pasar y luego escribir la lógica que pase dicho test.
+
+Fase roja --> Fase verde
