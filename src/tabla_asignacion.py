@@ -19,8 +19,7 @@ class Tabla_asignacion:
         return (int(DNI_NUM) % self.getModulo())
     
     def calcularLetra(self, DNI_NUM):
-        posicion = self.getPosicion(DNI_NUM)
-        return self.getLetra(posicion)
+        return self.getLetra(self.getPosicion(DNI_NUM))
     
     def mostrarTabla(self):
         print(self.tabla)
